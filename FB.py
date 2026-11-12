@@ -103,7 +103,7 @@ def banner():
     print(h + "            ╚══════════════════════════════════════╝" + r)
     print()
     print(m + "     ═══════════════════════════════════════════════════════" + r)
-    print(m + "        Powered by: " + Warna.PUTIH + Warna.TEBAL + "${}" + r)
+    print(m + "        Powered by: " + Warna.PUTIH + Warna.TEBAL + "DGXEONHOZOOMD"+ r)
     print(m + "        Status: " + Warna.HIJAU + "AKTIF" + Warna.MERAH + " | " + Warna.PUTIH + "Filter: OFF" + r)
     print(m + "     ═══════════════════════════════════════════════════════" + r)
     print()
