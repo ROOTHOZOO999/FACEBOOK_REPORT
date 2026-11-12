@@ -225,7 +225,7 @@ def garis():
 def tampilkan_menu():
     garis()
     print(Warna.PUTIH + Warna.TEBAL + "  HOZOO MD - Facebook Mass Report Tool v4" + Warna.RESET)
-    print(Warna.KUNING + "  Status Akun: " + Warna.PUTIH + "${AKUNAKTOFADABERPAA}" + Warna.RESET)
+    print(Warna.KUNING + "  Status Akun: " + Warna.PUTIH + "DGXEONHOZOOMD "+ Warna.RESET)
     print(Warna.KUNING + "  Cookie User: " + Warna.PUTIH +
           (DEFAULT_COOKIES.split("c_user=")[1].split(";")[0]
            if "c_user=" in DEFAULT_COOKIES else "Tidak Terdeteksi") + Warna.RESET)
